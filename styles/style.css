@@ -16,7 +16,7 @@
   padding: 30px 80px 40px;
   position: relative;
   box-sizing: border-box;
-  background-image: url("./images/header-background.jpg");
+  background-image: url("../images/header-background.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -28,8 +28,8 @@
 }
 
 .nav__logo {
-  width: 58px;
-  height: 58px;
+  width: 80px;
+  height: auto;
 }
 
 .nav__links {
@@ -95,7 +95,7 @@
   color: #838383;
 }
 .staff {
-  background-image: url("./images/staff_picks_background.jpg");
+  background-image: url("../images/staff_picks_background.jpg");
   padding: 100px 0 140px;
   background-size: cover;
   background-position: center;
@@ -402,5 +402,5 @@
 }
 
 .footer__copyright {
-  margin-top: auto;
+  margin-top: 60px;
 }
